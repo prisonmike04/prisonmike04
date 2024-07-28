@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm Ayushi Singh, a dedicated engineering student 
 
 🔍 My Interests:
 
-
 UI/UX Design 🖌️: Creating user-friendly and attractive interfaces.
 
 Data Analysis 📊: Transforming data into actionable insights.
@@ -19,8 +18,6 @@ FinTech 💼: Innovating in the financial technology sector.
 
 Machine Learning 🤖: Building smart algorithms to tackle complex challenges.
 
-
-
 🚀 About Me:
 
 I am enthusiastic about learning new technologies and keeping up with industry trends. My GitHub repository is a testament to my passion and includes a mix of personal projects and collaborative works.
@@ -29,9 +26,6 @@ I am enthusiastic about learning new technologies and keeping up with industry t
 🛠️ My Projects:
 
 My projects span a wide variety of domains including UI/UX design, data analysis, machine learning, data engineering, and more. From designing engaging interfaces to engineering robust data pipelines, and from business analytics to crafting machine learning models, my portfolio is diverse and comprehensive.
-
-
-
 
 
 🌐 Let's Connect:
